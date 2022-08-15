@@ -1,2 +1,2 @@
-# UWBootcamp
-StudyGuide/Works
+# Pre-Work Study Guide
+Coding Bootcamp Study Guide
